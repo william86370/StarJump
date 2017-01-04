@@ -2,8 +2,8 @@
 //  GameScene.swift
 //  Starfield
 //
-//  Created by Hesham on 1/4/15.
-//  Copyright (c) 2015 Hesham Amiri. All rights reserved.
+//  Created by William Wright on 1/4/15.
+//  Copyright (c) 2015 William Wright. All rights reserved.
 //
 
 import SpriteKit
